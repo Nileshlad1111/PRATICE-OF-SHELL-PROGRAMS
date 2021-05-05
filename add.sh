@@ -1,0 +1,7 @@
+#!/bin/bash -x
+
+#VARIABLE
+ONE=100;
+TWO=100;
+ADDITION=$(($ONE+$TWO))
+echo $ADDITION
